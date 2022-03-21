@@ -67,6 +67,12 @@ const mainHeader = document.createElement('h2');
 mainHeader.textContent = "Rock, Paper, Scissors";
 container.appendChild(mainHeader);
 
+const topDiv = document.createElement('div');
+container.appendChild(topDiv);
+const rules = document.createElement('p');
+rules.textContent = "First to 5 wins!"
+topDiv.appendChild(rules);
+
 const smallDiv = document.createElement('div');
 container.appendChild(smallDiv);
 const btnRock = document.createElement('button');
