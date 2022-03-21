@@ -1,5 +1,5 @@
 # rock-paper-scissors
 
-live:
+live: https://kevington99.github.io/rock-paper-scissors/
 
-What I learned
+
